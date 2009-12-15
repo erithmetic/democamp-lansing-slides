@@ -25,8 +25,7 @@
 - Likes
 - Dislikes
 - Wishes
-
-Send to [seekingmichigan@gmail.com](seekingmichigan@gmail.com)
+- Send to [seekingmichigan@gmail.com](seekingmichigan@gmail.com)
 
 !SLIDE
 
@@ -67,7 +66,23 @@ Send to [seekingmichigan@gmail.com](seekingmichigan@gmail.com)
 
 # CONTENTdm - AJAX
 
-- JSON data representing collections
+@@@ js
+{ 
+  "alias": "/p4006coll7",
+  "name": "Lighthouses and Life-Saving Stations",
+  "path": "D:\\Sites\\cust\\15147\\Data\\p4006coll7",
+  "full_res_info": { 
+   "volsize": "650MB",
+   "displaysize":"800x600",
+   "archivesize": { "width": "3200", "height":"2400" }
+  }
+}
+@@@
+
+!SLIDE
+
+# CONTENTdm - AJAX
+
 - Modified default templates, very messy
 - Coming soon: RESTful interface
   - Move everything to Wordpress and Rails
@@ -85,6 +100,8 @@ Send to [seekingmichigan@gmail.com](seekingmichigan@gmail.com)
 - Beer shirts
 
 !SLIDE
+
+# Thanks!
 
 - Code: [http://github.com/dkastner](http://github.com/dkastner)
 - Slides: [http://github.com/dkastner/democamp-lansing-slides](http://www.michigan.gov/dnr/0,1607,7-153-54463_19313---,00.html)
