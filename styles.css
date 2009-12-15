@@ -1,0 +1,12 @@
+body {
+  background: #000;
+  color: #FFF;
+}
+
+h1 {
+  font-family: "Georgia, Helvetica, sans";
+}
+
+ul li {
+  list-style-type: disc;
+}
