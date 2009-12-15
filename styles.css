@@ -1,12 +1,19 @@
 body {
   background: #000;
   color: #FFF;
+  font-family: Verdana,sans;
 }
 
 h1 {
-  font-family: "Georgia, Helvetica, sans";
+  font-family: Helvetica,sans;
 }
 
 ul li {
   list-style-type: disc;
+}
+
+a, a:hover, a:visited {
+  color: #FFF;
+  text-decoration: none;
+  border-bottom: 1px dashed;
 }
